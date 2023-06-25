@@ -5,18 +5,16 @@
 ### Category Name 1 
 
 [Project 1: Dataset of Covid-19 in Indonesia (Time Series)](https://youtu.be/M3JzgAwmzFw)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 - Created a Chart that visualizes the Dataset of Covid-19 in Indonesia to help readers know the number distribution in different areas
 - Scrapped over 6 million confirmed cases from the Kaggle dataset
 - This dataset is a breakdown into Maps Distribution, Daily New Cases, Breakdown per Province, Confirmed Cases, and Death
 - The Time Series method is applied to this dataset which was recorded over consistent time intervals.
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
