@@ -6,6 +6,8 @@ Use this template if you need a quick developer / data science portfolio! Based 
 
 <img src="images/demo.gif?raw=true"/>
 
+
+
 ### Installation
 
 See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
@@ -36,6 +38,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![Image](https://github.com/danujs/danu.github.io/blob/main/dummy_thumbnail.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
