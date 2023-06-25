@@ -1,5 +1,5 @@
 title: Danu Jaya Saputro # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: ![]"https://github.com/danujs/danu.github.io/blob/main/Grad%20Danu.png /images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   A Data Science Enthusiast 
   <br><br>
