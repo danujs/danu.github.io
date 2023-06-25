@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Category Nama 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
