@@ -1,6 +1,6 @@
 ## Portfolio
 
----
+
 
 ### Category Name 1 
 
@@ -10,7 +10,7 @@
 - Scrapped over 6 million confirmed cases from the Kaggle dataset
 - This dataset is a breakdown into Maps Distribution, Daily New Cases, Breakdown per Province, Confirmed Cases, and Death
 - The Time Series method is applied to this dataset which was recorded over consistent time intervals.
----
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
